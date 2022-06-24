@@ -8,3 +8,5 @@
 
   for install run =sudo make clean install=
 https://github.com/Alishahidi/dmenu_apts/edit/main/README.org
+
+Example run command: =dmenu_run -bw 1 -l 4 -g 4 -p "Run: "=
