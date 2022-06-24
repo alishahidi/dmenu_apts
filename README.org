@@ -4,6 +4,7 @@
 
 * Dmenu Apts
 
-  In this configuration, I have used [[https://github.com/bakkeby/dmenu-flexipatch][dmenu-flexipatch]] to manage patches
+  In this configuration, I used [[https://github.com/bakkeby/dmenu-flexipatch][dmenu-flexipatch]] to manage patches
 
   for install run =sudo make clean install=
+https://github.com/Alishahidi/dmenu_apts/edit/main/README.org
