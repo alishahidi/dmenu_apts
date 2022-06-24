@@ -64,7 +64,7 @@ static const unsigned int alphas[][3]      = {
 /* -l option; if nonzero, dmenu uses vertical list with given number of lines */
 static unsigned int lines      = 0;
 
-#include "colors/palenight.h"
+#include "colors/custom.h"
 
 #if GRID_PATCH
 /* -g option; if nonzero, dmenu uses a grid comprised of columns and lines */
