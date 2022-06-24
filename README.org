@@ -1,1 +1,9 @@
-* dmenu Apts
+#+TITLE: Dmenu Apts
+#+AUTHOR: Ali Shahidi
+#+DESCRIPTION: My heavily-patched and customized build of the Suckless dmenu run launcher.
+
+* Dmenu Apts
+
+  In this configuration, I have used [[https://github.com/bakkeby/dmenu-flexipatch][dmenu-flexipatch]] to manage patches
+
+  for install run =sudo make clean install=
